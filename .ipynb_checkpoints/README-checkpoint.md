@@ -1,3 +1,7 @@
+<p float="center">
+  <img src="supplementary_files/geosea_logo.png" width="100%" />
+  <img src="supplementary_files/vmasc-logo.png" width="100%" /> 
+</p>
 
 <img align="centre" src="supplementary_files/geosea_logo.png" width="100%">
 <img align="centre" src="supplementary_files/vmasc-logo.png" width="100%">
