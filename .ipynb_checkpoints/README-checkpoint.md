@@ -1,7 +1,6 @@
-<p float="center">
-  <img src="supplementary_files/geosea_logo.png" width="100%" />
-  <img src="supplementary_files/vmasc-logo.png" width="100%" /> 
-</p>
+
+<img align="left" src="supplementary_files/GeoSEA_MainPage.jpg" width="100%">
+<img align="right" src="supplementary_files/vmasc-logo.png" width="100%">
 
 # Virginia Data Cube Jupyter Notebooks
 
