@@ -54,7 +54,7 @@ from matplotlib.animation import FuncAnimation
 
 # Define colour schemes for each land cover measurement
 lc_colours = {
-    'level3': {0: (255, 255, 255, 255, "No Data"),
+    'data': {0: (255, 255, 255, 255, "No Data"),
                1: (65, 155, 223, 255, "Water"),
                2: (57, 125, 73, 255, "Forest"),
                4: (136, 176, 83, 255, "Flooded Vegetation"),
