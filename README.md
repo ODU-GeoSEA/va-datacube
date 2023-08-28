@@ -1,7 +1,7 @@
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="supplementary_files/GeoSEA_MainPage.jpg" style="width: 49%;">
-    <img src="supplementary_files/vmasc-logo.png" style="width: 49%;">
+    <img src="supplementary_files/GeoSEA_MainPage.jpg" style="width: 50%;">
+    <img src="supplementary_files/vmasc-logo.png" style="width: 50%;">
 </div>
 
 # Virginia Data Cube Jupyter Notebooks (*BETA*)
