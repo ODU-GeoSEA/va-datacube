@@ -1,5 +1,5 @@
 
-<img align="left" src="supplementary_files/GeoSEA_MainPage.jpg" width="51%">
+<img align="left" src="supplementary_files/GeoSEA_MainPage.jpg" width="100%">
 <img align="right" src="supplementary_files/vmasc-logo.png" width="49%">
 
 ---
