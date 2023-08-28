@@ -1,8 +1,9 @@
 
-<img align="left" src="supplementary_files/GeoSEA_MainPage.jpg" width="100%">
-<img align="right" src="supplementary_files/vmasc-logo.png" width="49%">
+<div style="display: flex; justify-content: space-between;">
+    <img src="supplementary_files/GeoSEA_MainPage.jpg" style="width: 49%;">
+    <img src="supplementary_files/vmasc-logo.png" style="width: 49%;">
+</div>
 
----
 # Virginia Data Cube Jupyter Notebooks (*BETA*)
 
 <img align="left" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">.
