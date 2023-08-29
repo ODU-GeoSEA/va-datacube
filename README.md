@@ -1,3 +1,7 @@
+| :warning:  Warning   |
+|:---------------------|
+| This repository is currently in development. We will remove this notice when the 1.0 version is released. |
+
 
 <div style="display: flex; justify-content: space-between;">
     <img src="supplementary_files/geosea_logo.png" style="width: 40%;">
