@@ -1,8 +1,16 @@
+| :warning:  Warning   |
+|:---------------------|
+| This repository is currently in development. We will remove this notice when the 1.0 version is released. |
 
-<img align="centre" src="supplementary_files/geosea_logo.png" width="100%">
-<img align="centre" src="supplementary_files/vmasc-logo.png" width="100%">
 
-# Virginia Data Cube Jupyter Notebooks
+
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="supplementary_files/geosea_logo.png" style="width: 40%;">
+    <img src="supplementary_files/vmasc-logo.png" style="width: 50%;">
+</div>
+
+# Virginia Data Cube Jupyter Notebooks (*BETA*)
 
 <img align="left" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">.
 

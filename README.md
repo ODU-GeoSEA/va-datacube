@@ -1,8 +1,16 @@
+| :warning:  Warning   |
+|:---------------------|
+| This repository is currently in development. We will remove this notice when the 1.0 version is released. |
 
-<img align="centre" src="supplementary_files/geosea_logo.png" width="100%">
-<img align="centre" src="supplementary_files/vmasc-logo.png" width="100%">
 
-# Virginia Data Cube Jupyter Notebooks
+
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="supplementary_files/geosea_logo.png" style="width: 40%;">
+    <img src="supplementary_files/vmasc-logo.png" style="width: 50%;">
+</div>
+
+# Virginia Data Cube Jupyter Notebooks (*BETA*)
 
 <img align="left" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">.
 
@@ -11,9 +19,11 @@
 
 **Contact:** If you need assistance with any of the Jupyter Notebooks or Python code in this repository, please post a question on the [Open Data Cube Slack channel](http://slack.opendatacube.org/) or on the [GIS Stack Exchange](https://gis.stackexchange.com/questions/ask?tags=open-data-cube) using the `open-data-cube` tag (you can view `previously asked questions` [here](https://gis.stackexchange.com/questions/tagged/open-data-cube). If you would like to report an issue with this notebook, you can file one on the [Github issues page](https://https://github.com/GeoSEA-ODU/va-datacube/issues)
 
-**PLACEHOLDER FOR CITING:** If you use any of the notebooks, code or tools in this repository in your work, please reference them using the following citation:
+**Funding:** This work was made possible by the NASA AIST-21-0031 program, grant number 80NSSC22K1407.
 
-    **...CITATION**
+**Citation:** If you use any of the notebooks, code or tools in this repository in your work, please reference them using the following citation:
+
+    **VA-Datacube. 2024. -NAME OF NOTEBOOK OR SCRIPT USED (Version number)-. Norfolk (VA): GitHub; accessed date.**
 
 ---
 
